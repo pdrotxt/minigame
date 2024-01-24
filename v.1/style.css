@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: #fff;
+}
+
+.container {
+  text-align: center;
+  padding: 50px 0;
+  font-size: 30px;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+.button {
+  padding: 30px 0;
+}
+.botao {
+  border-radius: 20px;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  padding: 10px 20px;
+  color:black;
+  background-color: rgb(245, 235, 220);
+}
